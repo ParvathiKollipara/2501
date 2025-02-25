@@ -7,6 +7,7 @@ class Application
      long coupons=8765;
      double price=60000.85;
      int quantity=30;
+     String color ="Black";
      short deliveryCharges=(byte)(150);
      byte tax=89;
      String paymentMode="GooglePay";
@@ -18,6 +19,7 @@ class Application
      System.out.println("Company Name: " + companyName);
      System.out.println("Product Name: " + productName);
      System.out.println("Price: " +price);
+     System.out.println("Color: "+color);
      System.out.println("Quantity: " + quantity);
      System.out.println("Delivery Charges: " + deliveryCharges);
      System.out.println("Tax: " + tax);

@@ -9,6 +9,10 @@ class Area_Perimeter
    {
     System.out.println("Area of a rectangle is greater");
    }
+   else if
+   {
+    System.out.println("Both are Same");
+   }
    else{
     System.out.println("Area of a rectangle is smaller");
    }

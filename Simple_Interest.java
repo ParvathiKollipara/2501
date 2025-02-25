@@ -4,6 +4,6 @@ class Simple_Interest
     {
      int P=1000, T=2, R=3;
      int SI= P*T*R/100;
-     System.out.println(SI);
+     System.out.println("Simple interest is "+SI);
     }
 }
